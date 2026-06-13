@@ -1,0 +1,26 @@
+# Corpus full texts (obtain from txtLAB; not redistributed here)
+cleaned_texts/
+*.sentences.txt
+
+# Generated pipeline outputs (large / binary / reproducible)
+outputs/
+*.rds
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

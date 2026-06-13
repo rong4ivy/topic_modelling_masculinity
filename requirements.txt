@@ -1,0 +1,6 @@
+# Python dependencies for the STM masculinity pipeline.
+# R is required separately for the STM step: install.packages("stm")
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+gensim>=4.3   # only for code/lda_topic_modelling.py (LDA pilot)

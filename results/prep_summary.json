@@ -1,0 +1,10 @@
+{
+  "documents": 9271,
+  "novels": 150,
+  "vocabulary": 15946,
+  "tokens": 6562588,
+  "mean_tokens_per_document": 707.8619350663358,
+  "removed_document_specific_terms": 2604,
+  "no_below": 25,
+  "no_above": 0.65
+}

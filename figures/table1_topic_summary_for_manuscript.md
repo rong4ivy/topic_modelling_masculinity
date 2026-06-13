@@ -1,0 +1,9 @@
+| topic_id | candidate_dimension | specific_topic_label | overlap_words | overlap_count | prob_words | frex_words | semantic_coherence | exclusivity |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Gentlemanly Status | gentlemanly respectability and social conduct | gentleman;lady;sir | 3 | lady, mrs, miss, sir, young, dear, lord, friend | miss, lady, elizabeth, fanny, helen, mrs, lord, anne | -22.839 | 9.591 |
+| 2 | Imperial Adventure | imperial-frontier adventure and martial movement | sea;ship | 2 | man, white, men, water, side, horse, tree, round | boat, hazel, fang, ship, deck, dogs, buck, wolf | -37.084 | 8.809 |
+| 3 | Gothic Romance | unlabeled topic |  | 0 | door, night, voice, heard, hour, light, emily, passed | emily, chamber, count, apartment, castle, marqui, convent, feature | -48.136 | 9.409 |
+| 4 | Professional Breadwinner | professional-commercial breadwinner activity | dollar;money;work | 3 | man, going, want, tom, street, money, door, new | tom, joe, dollar, anthony, paul, cent, anna, car | -37.143 | 8.987 |
+| 5 | Sentimental Manhood | sentimental-romantic masculinity | affection;feeling;happiness;love;sentiment | 5 | myself, friend, letter, hope, however, herself, cried, man | affection, conduct, happiness, esteem, madam, wholly, sentiment, error | -28.268 | 8.406 |
+| 6 | Aristocratic Chivalry | aristocratic-chivalric status and romance | highness;knight;prince;royal | 4 | man, men, year, many, among, part, country, however | prince, knight, nation, government, political, spain, jew, royal | -48.494 | 8.373 |
+| 7 | Domestic Paternalism | domestic-paternal kinship and family feeling | child;father;home;mother | 4 | love, mother, father, man, herself, felt, knew, margaret | margaret, guy, laura, mary, catherine, ellen, robert, loved | -37.574 | 9.359 |
