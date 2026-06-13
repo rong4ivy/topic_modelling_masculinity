@@ -1,4 +1,4 @@
-# Masculine Social Formations in English-Language Fiction (1771–1930)
+# TOPIC MOEDELLING Masculine Social Formations in English-Language Fiction (1771–1930)
 
 Reproducible code and outputs for a structural topic modeling (STM) study of
 masculine social formations in 150 English-language novels, accompanying the
